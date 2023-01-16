@@ -18,10 +18,10 @@
 //   Анімації і ефекти до слайдеру по бажанню
 // 2) Створити 2 кнопки які при кліку будуть перемикати зображення в слайдері, вперед назад
 let images = [
-  "/img/черепашки.jpg",
-  "/img/batman.jpg",
-  "/img/superman.jpg",
-  "/img/captain.jpg",
+  "./img/черепашки.jpg",
+  "./img/batman.jpg",
+  "./img/superman.jpg",
+  "./img/captain.jpg",
 ];
 
 let ninjia = document.querySelector("#черепашки");
